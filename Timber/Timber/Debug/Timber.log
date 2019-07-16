@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(243,39): warning C4244:  '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(269,39): warning C4244:  '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(321,31): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(325,18): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(344,27): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(348,18): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(364,27): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(368,18): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(384,27): warning C4244:  '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(388,18): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Timber\Timber.cpp(407,18): warning C4244:  'inicializando': conversão de 'int' para 'float', possível perda de dados
+  Timber.vcxproj -> C:\Users\fgfog\Documents\Ghubaluba\Visual Studio Stuff\Projects\Timber\Debug\Timber.exe
